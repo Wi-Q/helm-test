@@ -1,0 +1,6 @@
+dependencies:
+- name: common-php-app
+  repository: file:///home/matt/Development/helm_matt/examples/dry-applications/common-php-app
+  version: 0.1.0
+digest: sha256:47ee8f4d3b95d795f26ac14e78f919b82b261fc93bba0c14e220d12b28718872
+generated: "2020-04-09T09:46:12.585763255+01:00"
